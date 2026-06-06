@@ -1,5 +1,5 @@
 
-Design and Implementation of a Natural Language Interface for Databases using LLM and MCP  – Application Development Lab
+Design and Implementation of a Natural Language Interface for Databases using LLM and MCP 
 ### Project Description
 To design and implement a system that enables users to interact with a database using natural language queries by integrating a Large Language Model with Model Context Protocol (MCP), a Flask backend, and a web-based frontend.  
 - HTML5
